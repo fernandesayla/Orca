@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "650073307234",
+    "firebase_url": "https://mob-fb4a5.firebaseio.com",
+    "project_id": "mob-fb4a5",
+    "storage_bucket": "mob-fb4a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650073307234:android:04362ca9f8165dbb",
+        "android_client_info": {
+          "package_name": "br.com.aylafernandes.orc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650073307234-gnrhcrgbedf4omuqbp4noi36qe28bl76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.aylafernandes.orc",
+            "certificate_hash": "41028a45501dbf2487bd8139f2a815eb40c6a980"
+          }
+        },
+        {
+          "client_id": "650073307234-vp3m1qd4i58qraolgsb2ppnehl16m8ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmHzNyyY8MAjxtmScjLGq0LnyfGYZuRNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650073307234-vp3m1qd4i58qraolgsb2ppnehl16m8ml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "650073307234-v3ise66ljt41jt2j7o7ntvd0ic0btqvn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.fiap.ShoppingList"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650073307234:android:4c06b0dfed104426",
+        "android_client_info": {
+          "package_name": "br.com.aylafernandes.orca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650073307234-bvgeq5j2cmhb4j2j9ubdlb1cb86a8omv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.aylafernandes.orca",
+            "certificate_hash": "2299f9143168303c2a12e8dd2e624b1f67281f66"
+          }
+        },
+        {
+          "client_id": "650073307234-vp3m1qd4i58qraolgsb2ppnehl16m8ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmHzNyyY8MAjxtmScjLGq0LnyfGYZuRNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650073307234-vp3m1qd4i58qraolgsb2ppnehl16m8ml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "650073307234-v3ise66ljt41jt2j7o7ntvd0ic0btqvn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.fiap.ShoppingList"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
